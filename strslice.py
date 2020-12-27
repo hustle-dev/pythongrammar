@@ -12,3 +12,4 @@ c = "Pithon"
 print(c[:1] + 'y' + c[2:])
 # Pithon의 배열 요소인 a[1]을 바로 바꾸는 것은 불가! -> 문자열의 요소값은 immutable한 자료형
 
+
