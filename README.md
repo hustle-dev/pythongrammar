@@ -1,3 +1,5 @@
 # Python grammar study
-python grammar study for flask
+Python grammar study for flask
 IDE: Visual Studio Code
+Reference: Jump to python
+https://wikidocs.net/book/1

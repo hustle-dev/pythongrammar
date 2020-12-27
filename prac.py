@@ -1,1 +1,2 @@
-print('Hello World!')
+food = "Python's favorite food is perl"
+print(food)
