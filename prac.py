@@ -1,2 +1,2 @@
-food = "Python's favorite food is perl"
-print(food)
+a = "Life is too short"
+print(a[-1])
